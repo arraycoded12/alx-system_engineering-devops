@@ -1,0 +1,2 @@
+Display current directory starting with .)
+ls -la
