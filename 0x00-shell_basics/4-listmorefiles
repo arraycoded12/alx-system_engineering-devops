@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-Display current directory contents, including hidden files (s
-
-tarting with .)
-=======
 #!/bin/bash
-ls . -la
->>>>>>> 8cd0bba975d632081d6c045f9ae5b443a17a09fd
+ls -la
