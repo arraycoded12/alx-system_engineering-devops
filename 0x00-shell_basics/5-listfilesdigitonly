@@ -4,3 +4,4 @@ ls . -lid
 =======
 ls -l
 >>>>>>> 65592362ebb212d5257598a1fcfc49e6aa9d41f3
+ls -lna
