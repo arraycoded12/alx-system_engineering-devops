@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Display current directory starting with .)
-=======
 #!/bin/bash
->>>>>>> e754e8bf84bb5b7b9bf0d831548f375c0fd61f90
-ls -la
+ls -al
