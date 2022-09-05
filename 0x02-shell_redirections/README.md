@@ -1,2 +1,1 @@
-Shell, I/O Redirections and filters
-Hello, World
+Shell, I/O Redirections and filter
